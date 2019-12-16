@@ -1,6 +1,9 @@
 # MegaDriveMiniGameRenamer
 Simple Python-based script to rename games with any file extension to .bin, for compatibility with Project Lunar
 
+**Warning**
+Currently, Project Lunar does not accept .SMD ROM files to be inserted. Please use [SBWin](https://www.zophar.net/utilities/segautil/sbwin.html) to convert the .SMD ROMs to .bin ROMs for compatiblity with Project Lunar.
+
 # What it does
 The GameRenamer script/executable goes through a directory and renames the file extension of all files inside of said directory to .bin to let Project Lunar import the games properly.
 
